@@ -21,7 +21,7 @@ If you're using Google Colab Change the Runtime to **T4 GPU**
 - **SciPy** – B-spline smoothing and distance computation  
 - **Matplotlib** – visualization
 
-## Google Colab Setup (GPU Required)
+## Google Colab Setup
 
 If you are running this project on **Google Colab**, make sure to **enable GPU acceleration** before executing the notebook:
 
